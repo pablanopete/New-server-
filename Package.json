@@ -1,0 +1,10 @@
+json {
+"name": "chat-server"
+"1.0.0",
+"main": "server.js"
+"start": "node server.js"
+"dependencies": {
+"wS" : "A8.14.0"
+"version":
+"scripts":
+} }
